@@ -1,0 +1,24 @@
+.h{
+    padding: 40px;
+    background-color: aqua;
+    color:rgb(6, 44, 44);
+    font-family: 'Jura';
+    font-size: 22px;
+    border: 1px solid green;
+    border-radius: 20px;
+}
+
+.btn, .adivina{
+    padding: 20px;
+    font-family: 'Jura';
+    border-radius: 12px;
+}
+
+a{
+    padding: 40px;
+    margin:20px;
+    border:20px;
+    font-family: 'Jura';
+    font-size: 19px;
+    color:rgb(41, 41, 51);
+}
